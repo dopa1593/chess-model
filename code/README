@@ -1,7 +1,7 @@
 !git config --global user.name "dopa1593"
 !git config --global user.email "a01083289436@gmail.com"
 
-!git remote set-url origin https://dopa1593:TOKEN@github.com/dopa1593/chess-model.git
+!git remote set-url origin https://dopa1593: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@github.com/dopa1593/chess-model.git
 
 ------------------------------------------------------------------------------
 
